@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+	When you initialize a repository, Git creates a .git (hidden) subdirectory within that directory as a repository. This saves snapshots of the projects within that directory.
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	To my understanding, the staging area is a "holding" area prior to files being commited to the repository. The staging area allows limited commits to be made so that logical changes can be stacked according to overall groupings.
+
+
