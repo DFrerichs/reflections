@@ -1,0 +1,44 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    The pluses and minuses allowed me to quickly locate changes, and paying attention to the adds, I could check for syntax or other errors.
+
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+    
+    In the past, I have had to start over when I didn't really need to start completely over. I could have gone back to earlier code and at least pulled pieces out for modification or use as is.
+
+    
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros for manually choosing allow for logical changes to be made that the computer wouldn't know how to do. 
+
+    The cons would be be where auto saves would take care of points in development where the user would forget, as in suddenly dropping the work to focus on another priority, and not returning to the project for a week. Power outages, forgetting to save at a logical break, etc. would be other reasons to use automatic saving of code.
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Saving multiple files in one commit would allow continuity in a project. Google docs isn't really designed to handle code, and although it would work for a single file, multiple files would need to be carried to new folders for tracking.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log will give the entire history of files committed. Git diff will show the history of line changes within certain files.
+
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Git checkout assists with this. I can "pull" an older version which then becomes the current version when I do Git logs.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I think Git would work very well for websites and programming, but I think it also could be used for a variety of other tasks that would involve versions control -- for both individual and group use.
