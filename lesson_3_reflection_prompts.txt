@@ -16,7 +16,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    I would think that having an up-to-date version of a remote branch would reduce conflicts with any collaborators working with me on a project. Too much diversion, say in a program or HTML/CSS update, could send the project in an unintended direction. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
