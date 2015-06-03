@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I would want to make changes in a separate branch especially when collaborating with another person working on a project. The master branch would simply be updated as pull requests are made, perhaps with each logical change that's made by each person. This would keep the master "clean," with new pieces of each stage of development coordinated and updated to provide the best possible final product.
